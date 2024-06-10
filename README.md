@@ -1,16 +1,39 @@
-# db_miner
+# Project Defination : 'Db_Miner Quotes App'
 
-A new Flutter project.
+## Project Descripation:
+- Db_Miner Quotes App is a Flutter application that provides a beautiful and customizable interface for browsing, liking, and sharing quotes. The app includes various features such as background change, dark and light theme toggle, font customization, and more.
 
-## Getting Started
+- Created solely for learning and understanding purposes, this app employs basic logic to guide developers and enthusiasts through the fundamentals of Flutter, emphasising simplicity in implementation. It is important to note that the application is not intended for production use but - - -encourages users to explore, experiment, and gain a deeper understanding of Flutter's capabilities in building mobile applications.
 
-This project is a starting point for a Flutter application.
+# Features:
 
-A few resources to get you started if this is your first Flutter project:
+## Background Change:
+- Customize the background of the app to suit your preference.
+  
+## Dark and Light Theme Toggle: 
+- Switch between dark and light themes for a comfortable viewing experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Quote Sharing: 
+- Share your favorite quotes with others directly from the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Font Customization:
+- Change the font style and color to personalize the appearance of quotes
+
+## Quote Copying: 
+- Easily copy quotes to your clipboard for use in other applications.
+
+## Like Quotes:
+- Mark quotes as favorites to easily access them later.
+
+# Usage:
+
+## Changing Themes:
+- Go to the app settings.
+- Select the desired theme (light or dark).
+
+## Copying Quotes:
+- Tap on a quote to view its details.
+- Use the "Copy" button to copy the quote text to your clipboard.
+
+## Instruction:
+No Copying: Do not copy code or any other content from your classmates or any other source. Plagiarism is strictly prohibited and can result in severe consequences, including academic penalties. Ensure that all the code and content in your project are original and properly attributed to the appropriate sources, if applicable.
